@@ -1,0 +1,32 @@
+.Header{
+  color: white;
+  background-color: green;
+  text-align: center;
+  padding: 10px;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.card{
+  background-color: pink;
+  box-shadow: 2px 4px 4px gray;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  width: 360px;
+  display: inline-block;
+  float: left;
+}
+.cardTitle{
+  text-align: center;
+  padding-bottom: 5px;
+  color: red;
+}
+.cardFooter{
+  text-align: center;
+}
+.cardDesc{
+  text-align: center;
+  padding-bottom: 5px;
+}
